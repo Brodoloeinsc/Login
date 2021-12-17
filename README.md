@@ -8,5 +8,7 @@ Tecnologias usadas:
  - PHP,
  - Mysqli
 
-Link do canal: https://www.youtube.com/channel/UC-4cGBkxpBdbSIbd_EGBBQA
-Aproveite este projeto para estudar e tire o máximo de proveito do mesmo
+Projeto feito no meu canal do YouTube;
+
+Link do canal: https://www.youtube.com/channel/UC-4cGBkxpBdbSIbd_EGBBQA;
+Aproveite este projeto para estudar e tire o máximo de proveito do mesmo;
