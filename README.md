@@ -10,5 +10,5 @@ Tecnologias usadas:
 
 Projeto feito no meu canal do YouTube;
 
-Link do canal: https://www.youtube.com/channel/UC-4cGBkxpBdbSIbd_EGBBQA;
+Link do canal: https://www.youtube.com/channel/UC-4cGBkxpBdbSIbd_EGBBQA; <br />
 Aproveite este projeto para estudar e tire o máximo de proveito do mesmo;
